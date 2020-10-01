@@ -1,4 +1,4 @@
-# License-Plate-Detection
+# License Plate Detection (a basic image processing project to demonstrate the various basic concepts)
 Reading License Plate from an image
 
 In this Project, we are going to describe the usage and numerous advantages of license plate recognition in daily life.
